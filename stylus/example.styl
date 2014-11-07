@@ -1,0 +1,86 @@
+/*
+
+	Example CSS (for the website)
+	oliver pope 2014
+	
+*/
+
+// colors
+
+red = #F8002A
+blue = #214880
+green	= #35671A
+black	= #000000
+white = #FFFFFF
+violet = #292655
+pink = #F48361
+sky-blue = #2BC2E8
+
+height = 250px
+
+.example
+	width 25%
+	height height
+	margin-right 10px
+	padding 1em 5%
+	display inline-block
+	float left
+	border-top 1px solid #666
+	border-bottom 1px solid #666
+	@media screen and (max-width: 600px)
+		width 100%
+		margin 0
+		padding 0
+		float none
+
+.no-top-border 
+	border-top 1px solid transparent
+
+.less-height 
+	height (height - 75px)
+	
+// colors
+
+.invisible
+	display none
+.selected
+	background black
+
+.box
+	width 25px
+	height 25px
+	display inline-block
+	border 0
+	transition .1s all
+	&:hover
+		background black
+
+.ex-red 
+	background red
+.ex-blue 
+	background blue
+.ex-green
+	background green
+.ex-black
+	background black
+.ex-violet 
+	background violet
+.ex-pink 
+	background pink
+.ex-sky-blue
+	background sky-blue
+	
+// sizes
+
+.size
+	border 0
+	background none
+
+.ex-s
+	font-size .8em
+.ex-m
+	font-size 1em
+.ex-l
+	font-size 1.4em
+.ex-xl
+	font-size 2em
