@@ -1,0 +1,20 @@
+{
+  "name": "new-buttons",
+  "version": "1.0.0",
+  "description": "A collection of brand new buttons that make the web look epic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owebboy/new-buttons.git"
+  },
+  "keywords": [
+    "buttons",
+    "stylus",
+    "stylesheet"
+  ],
+  "author": "Oliver Pope <o@owebboy.com> (https://owebboy.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owebboy/new-buttons/issues"
+  },
+  "homepage": "https://github.com/owebboy/new-buttons"
+}
