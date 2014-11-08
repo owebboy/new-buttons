@@ -5,28 +5,7 @@
 	
 */
 .example {
-  width: 25%;
-  height: 250px;
-  margin-right: 10px;
-  padding: 1em 5%;
-  display: inline-block;
-  float: left;
   border-top: 1px solid #666;
-  border-bottom: 1px solid #666;
-}
-@media screen and (max-width: 600px) {
-  .example {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    float: none;
-  }
-}
-.no-top-border {
-  border-top: 1px solid transparent;
-}
-.less-height {
-  height: 175px;
 }
 .invisible {
   display: none;
@@ -39,8 +18,7 @@
   height: 25px;
   display: inline-block;
   border: 0;
-  -webkit-transition: 0.1s all;
-          transition: 0.1s all;
+  transition: 0.1s all;
 }
 .box:hover {
   background: #000;
