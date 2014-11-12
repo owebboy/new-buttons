@@ -2,7 +2,7 @@
 
 	New Buttons
 	oliver pope 2014
-	
+
 */
 .button {
   text-decoration: none;
@@ -12,7 +12,11 @@
   display: inline-block;
   margin: 1em 0;
   font-weight: bold;
-  transition: 0.2s all;
+  -webkit-transition: 0.2s all;
+          transition: 0.2s all;
+}
+.no-margin {
+  margin: 0 !important;
 }
 .color-red {
   background: #f8002a;
@@ -90,7 +94,7 @@
 }
 .size-m {
   font-size: 1em;
-  padding: 0.8em 1.4em;
+  padding: 0.6em 1.4em;
 }
 .size-l {
   font-size: 1.4em;
