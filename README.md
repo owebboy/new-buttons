@@ -18,8 +18,12 @@ new-buttons is a innovative new way to build buttons. This is going to change ev
 ### with bower
 `bower install --save new-buttons`
 
+## Getting started with gulp
+1. `npm install`
+2. `gulp`
+
 ## Author
-Created by Oliver Pope, @owebboy <owebboy.com>
+Created by Oliver Pope, @owebboy
 
 ## License
 The MIT License (MIT)
