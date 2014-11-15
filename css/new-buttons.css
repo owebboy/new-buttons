@@ -25,7 +25,7 @@
 }
 .color-red:hover {
   color: #f8002a;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #f8002a;
 }
 .color-blue {
@@ -35,7 +35,7 @@
 }
 .color-blue:hover {
   color: #214880;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #214880;
 }
 .color-green {
@@ -45,7 +45,7 @@
 }
 .color-green:hover {
   color: #35671a;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #35671a;
 }
 .color-black {
@@ -55,7 +55,7 @@
 }
 .color-black:hover {
   color: #000;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #000;
 }
 .color-violet {
@@ -65,7 +65,7 @@
 }
 .color-violet:hover {
   color: #292655;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #292655;
 }
 .color-pink {
@@ -75,7 +75,7 @@
 }
 .color-pink:hover {
   color: #f48361;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #f48361;
 }
 .color-sky-blue {
@@ -85,7 +85,7 @@
 }
 .color-sky-blue:hover {
   color: #2bc2e8;
-  background: HSLA(0, 0%, 100%, 0);
+  background: rgba(255,255,255,0);
   border-color: #2bc2e8;
 }
 .size-s {
