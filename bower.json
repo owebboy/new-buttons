@@ -1,0 +1,8 @@
+{
+  "name": "new-buttons-website",
+  "version": "1.2",
+  "dependencies": {
+    "new-buttons": "~1.0.3",
+    "typographic-styles": "~1.0.4"
+  }
+}
