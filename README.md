@@ -1,17 +1,27 @@
-# new-buttons
-## owebboy
+# New Buttons
 
 new-buttons is a innovative new way to build buttons. This is going to change everything
 
-### Features
+## Features
 - epic
 - different colors
 - different sizes
 
-### Author
+## Installation
+
+### with github
+`git clone git@github.com:owebboy/new-buttons.git`
+
+### with npm
+`npm install --save-dev new-buttons`
+
+### with bower
+`bower install --save new-buttons`
+
+## Author
 Created by Oliver Pope, @owebboy <owebboy.com>
 
-### License
+## License
 The MIT License (MIT)
 
 Copyright (c) 2014 Oliver Ppe

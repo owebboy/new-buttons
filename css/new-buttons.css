@@ -13,8 +13,7 @@
   display: inline-block;
   margin: 1em 0;
   font-weight: bold;
-  -webkit-transition: 0.2s all;
-          transition: 0.2s all;
+  transition: 0.2s all;
 }
 .no-margin {
   margin: 0 !important;
