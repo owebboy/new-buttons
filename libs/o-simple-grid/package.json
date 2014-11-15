@@ -1,23 +1,23 @@
 {
-  "name": "typographic-styles",
-  "version": "1.0.5",
-  "description": "A stylesheet that was built to make web typography look amazing",
+  "name": "simple-grid",
+  "version": "1.0.1",
+  "description": "a grid with a super simple design",
   "repository": {
     "type": "git",
-    "url": "https://github.com/owebboy/typographic-styles.git"
+    "url": "git://github.com/owebboy/simple-grid.git"
   },
   "keywords": [
-    "typographic",
     "stylus",
-    "css",
-    "styles"
+    "simple",
+    "grid",
+    "css"
   ],
   "author": "Oliver Pope <o@owebboy.com> (https://owebboy.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/owebboy/typographic-styles/issues"
+    "url": "https://github.com/owebboy/simple-grid/issues"
   },
-  "homepage": "https://github.com/owebboy/typographic-styles",
+  "homepage": "https://github.com/owebboy/simple-grid",
   "devDependencies": {
     "gulp-stylus": "~1.3.4",
     "gulp": "~3.8.10",

@@ -1,8 +1,9 @@
 {
   "name": "new-buttons-website",
-  "version": "1.2",
+  "version": "1.2.0",
   "dependencies": {
     "new-buttons": "~1.0.3",
-    "typographic-styles": "~1.0.4"
+    "typographic-styles": "~1.0.5",
+    "o-simple-grid": "~1.0.1"
   }
 }
